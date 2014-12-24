@@ -24,10 +24,6 @@ FoldTheme will be released under GPLv3 - [http://www.gnu.org/copyleft/gpl.html](
   * contents/
   * sections/
   * assets/
-   * css/
-   * images/
-   * js/
-   * fonts/
   * includes/
   * vendors/
   * options/
